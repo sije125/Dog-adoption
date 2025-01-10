@@ -43,27 +43,6 @@ for (int i = 0; i < maxPets; i++)
             suggestedDonation = "49.99";
             break;
 
-        case 2:
-            animalSpecies = "cat";
-            animalID = "c3";
-            animalAge = "1";
-            animalPhysicalDescription = "small white female weighing about 8 pounds. litter box trained.";
-            animalPersonalityDescription = "friendly";
-            animalNickname = "snow";
-            suggestedDonation = "40.00";
-            break;
-
-        case 3:
-            animalSpecies = "cat";
-            animalID = "c4";
-            animalAge = "";
-            animalPhysicalDescription = "";
-            animalPersonalityDescription = "";
-            animalNickname = "lion";
-            suggestedDonation = "";
-
-            break;
-
         default:
             animalSpecies = "";
             animalID = "";
